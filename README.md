@@ -17,8 +17,6 @@ The codes solve the cavity equation of the toy non-linear σ-model on the hyperb
 | `mathematica/toy_NLsM_critical.nb` | Mathematica notebook for the critical point J = J_c (Algorithm 5): P_H(t) at J_c and the logarithmic corrections. |
 | `cpp/` | Faster C++ implementation of the same algorithms, used for the smallest fields (down to ln H = −54). |
 
-The comments in the notebooks are in Italian. The notebooks were originally called `Soluzione_Gruzberg_Mirlin.nb` and `Soluzione_Gruzberg_Mirlin_critico.nb`.
-
 ## Parameters used in the paper
 
 - k = 2.
