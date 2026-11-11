@@ -15,7 +15,7 @@ The codes solve the cavity equation of the toy non-linear σ-model on the hyperb
 |---|---|
 | `mathematica/toy_NLsM.nb` | Mathematica notebook for the paramagnetic (localized) phase J < J_c (Algorithms 1–4 of the Appendix): P_H(t) for several H, P_0(t) and the constant c, the bulk zero mode f_typ(t), the boundary-layer function f_min(Δt), and the IPR proxy I_2(H). It also contains a first exploration of the critical case. |
 | `mathematica/toy_NLsM_critical.nb` | Mathematica notebook for the critical point J = J_c (Algorithm 5): P_H(t) at J_c and the logarithmic corrections. |
-| `cpp/` | Faster C++ implementation of the same algorithms, used for the smallest fields (down to ln H = −54). |
+| `cpp/` | Faster C++ implementation of the critical-point solver (Algorithm 5), used for the smallest fields (ln H = −50 and −54). |
 
 ## Parameters used in the paper
 
