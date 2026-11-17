@@ -48,7 +48,7 @@
 #define PAR_B       0.5                   // exponent b (1/2 at the critical point)
 #endif
 #ifndef PAR_C
-#define PAR_C       0.61                  // tail coefficient c
+#define PAR_C       0.67573                  // tail coefficient c
 #endif
 #ifndef PAR_TOLL0
 #define PAR_TOLL0   1e-7                  // convergence threshold for H = 0
